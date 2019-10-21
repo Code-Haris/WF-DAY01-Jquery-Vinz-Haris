@@ -1,0 +1,3 @@
+Wellcome to Jquery day1 
+$("a[href='www.codefactory.wien']")
+
